@@ -1,1 +1,1 @@
-console.log("Satyarth");
+console.log("Satyarth")
